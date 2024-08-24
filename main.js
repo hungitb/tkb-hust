@@ -163,7 +163,6 @@ d&&(ia.delete(a.id),ya(ia,fa)));f=!f;b.toggleClass("yybboy");$(this).html(f?"Th\
             <span class="c-mc fw-6" style="font-size: 40px; flex: 1;"> C\u00e1ch ${ma(e+1)}: </span>
             
             ${""}
-            <span class="ftgetx pidmfo">T\u1ea3i \u1ea3nh TKB</span>
         </div>`).css("height","54px");w.find(".ileicd").removeClass("ileicd").on("click",()=>{let B=function(k){return""}(ba.mrxkoj(e).map(k=>O.gethyvnio(k))),l=$("<div></div>").text(B).html();1200<l.length&&(l=l.substring(0,1200)+"</br>......");V.zhlrar(`
                 T\u1ea1i trang \u0111\u0103ng k\u00fd l\u1edbp, d\u00e1n \u0111o\u1ea1n code n\u00e0y v\u00e0o tab console c\u1ee7a tr\u00ecnh duy\u1ec7t v\u00e0 \u1ea5n Enter \u0111\u1ec3 ch\u1ea1y.
                 C\u00e1c l\u1edbp \u0111\u01b0\u1ee3c ch\u1ecdn c\u1ee7a th\u1eddi kh\u00f3a bi\u1ec3u n\u00e0y s\u1ebd t\u1ef1 \u0111\u1ed9ng \u0111\u01b0\u1ee3c \u0111\u0103ng k\u00fd.
