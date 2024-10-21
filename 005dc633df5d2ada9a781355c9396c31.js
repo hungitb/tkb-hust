@@ -1,0 +1,1 @@
+(()=>{"use strict";"true"!=localStorage.getItem("3859672dea5f4a7b4f3ba8bbfb3a4fe7")?0!=window.location.search.replaceAll("?","").length&&(localStorage.setItem("3859672dea5f4a7b4f3ba8bbfb3a4fe7",!0),window.location.href=window.location.href.split("?")[0]):localStorage.removeItem("3859672dea5f4a7b4f3ba8bbfb3a4fe7")})();
