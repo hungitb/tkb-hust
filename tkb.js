@@ -1,0 +1,1 @@
+window.a0b="THỜI KHÓA BIỂU DỰ KIẾN KỲ 20242 (Cập nhật 12.01.2025)";
