@@ -1,4 +1,4 @@
-# Tóm tắt
+# TKB HUST
 Đây là trang web giúp soạn thời khóa biểu tự động cho sinh viên HUST, đã được deploy tại [đây](https://hungitb.github.io/tkb-hust/).
 Từ những môn học mà sinh viên đã chọn, trang web sử dụng thuật toán Backtracking để có được tất cả các cách xếp thời khóa biểu. Từ những cách tìm được, sinh viên sẽ sử dụng các bộ lọc để có thể tìm ra thời khóa biểu phù hợp với mình.
 
