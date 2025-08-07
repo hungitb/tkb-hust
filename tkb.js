@@ -1,1 +1,1 @@
-(()=>{"use strict";window.db39="THỜI KHÓA BIỂU DỰ KIẾN KỲ 20251 (Cập nhật 04.08.2025)"})();
+(()=>{"use strict";window.db39="THỜI KHÓA BIỂU DỰ KIẾN KỲ 20242 (Cập nhật 07.08.2025)"})();
