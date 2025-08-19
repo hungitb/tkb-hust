@@ -1,1 +1,1 @@
-(()=>{"use strict";window.f3e1="THỜI KHÓA BIỂU DỰ KIẾN KỲ 20251 (Cập nhật 15.08.2025)"})();
+(()=>{"use strict";window.f3e1="THỜI KHÓA BIỂU DỰ KIẾN KỲ 20251 (Cập nhật 19.08.2025)"})();
